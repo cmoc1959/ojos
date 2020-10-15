@@ -1,0 +1,21 @@
+{
+    "name": "ojos",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "colorbit": "github:51bit/colorbit#v0.1.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
